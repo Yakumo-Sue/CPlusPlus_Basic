@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\01.模板">
+      <UniqueIdentifier>{9b01c3b1-77b8-4361-ba75-cd6a6da403ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\01.模板\01-1.模板-函数模板">
+      <UniqueIdentifier>{ded21afe-5e39-406b-8631-5a2eeb9fab33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\01.模板\01-2.模板-类模板">
+      <UniqueIdentifier>{fe00035b-d6e2-449e-b768-10283586fe0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\01.模板\01-3.数组类封装案例">
+      <UniqueIdentifier>{fdd66df9-ed65-4790-bfe1-19736b1df4ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\02.STL初识">
+      <UniqueIdentifier>{c12f8b21-1b65-45f5-94a7-9bd68eeb5c36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器">
+      <UniqueIdentifier>{707b75b2-56e1-4b17-a601-d87a3ca609c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-1.String 容器">
+      <UniqueIdentifier>{f20ba11f-0efa-41a1-8e26-1e1e7903f095}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-2.Vector 容器">
+      <UniqueIdentifier>{85510c6f-3beb-4417-aa41-dd04d5610fa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-4.案例-评委打分">
+      <UniqueIdentifier>{a67ca099-95c0-449c-ae09-2dd1ad89c222}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-3.Deque 容器">
+      <UniqueIdentifier>{1f7ce70c-ea33-4b52-9efa-c222bf61e46b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-5.Stack 容器">
+      <UniqueIdentifier>{8e271906-0d71-4f49-af9d-add49d75252b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-6.Queue 容器">
+      <UniqueIdentifier>{66111179-ec8d-470b-88cf-f82cd73da688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-7.List 容器">
+      <UniqueIdentifier>{fb58cbdf-34fa-4357-b04f-7b63bf784a69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-7.set-multiset 容器">
+      <UniqueIdentifier>{ee27eae4-9ad1-4bb1-bf18-fd6ae96e85df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-8.map-multimap 容器">
+      <UniqueIdentifier>{f3eaa8cd-a005-47af-b20c-7fd2575ab3b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03.STL-常用容器\03-9.案例-员工分组">
+      <UniqueIdentifier>{743ca65e-4d3a-4de1-9811-d019ea67d67e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04.STL-函数对象">
+      <UniqueIdentifier>{c2098986-44c8-4c13-9bfe-bd21dd7e616d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04.STL-函数对象\04-1.函数对象">
+      <UniqueIdentifier>{d02140a9-21e6-43e5-93d5-f907153fb7c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04.STL-函数对象\04-2.谓词">
+      <UniqueIdentifier>{8f535c63-8cdb-4d36-8d1c-782b9383ea2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04.STL-函数对象\04-3.内建函数对象">
+      <UniqueIdentifier>{e8bb23e1-ce5a-4cf9-ad2d-c7959ba37714}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05.STL-常用算法">
+      <UniqueIdentifier>{975cf705-38d1-457c-82dc-571da86a4e7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05.STL-常用算法\05-1.遍历算法">
+      <UniqueIdentifier>{a08b861d-6538-455c-b44b-6858d62002ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05.STL-常用算法\05-2.查找算法">
+      <UniqueIdentifier>{0c65d2b3-9ccd-4ac9-b5f0-ea855321ca65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05.STL-常用算法\05-4.拷贝和替换算法">
+      <UniqueIdentifier>{0c67930f-9e15-4cf6-8ca0-db41df49954b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05.STL-常用算法\05-5.算数生成算法">
+      <UniqueIdentifier>{d1d324e2-dd48-4ca9-9744-b9b323cce471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05.STL-常用算法\05-6.集合算法">
+      <UniqueIdentifier>{dd6935fb-5190-480f-9f51-270d888deb07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05.STL-常用算法\05-3.排序算法">
+      <UniqueIdentifier>{9ddc347f-a069-4007-8d86-0f31651e8882}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01.函数模板-基础语法.cpp">
+      <Filter>源文件\01.模板\01-1.模板-函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="02.函数模板-注意事项.cpp">
+      <Filter>源文件\01.模板\01-1.模板-函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="03.函数模板-案例.cpp">
+      <Filter>源文件\01.模板\01-1.模板-函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="04.函数模板-区别.cpp">
+      <Filter>源文件\01.模板\01-1.模板-函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="05.函数模板-调用规则.cpp">
+      <Filter>源文件\01.模板\01-1.模板-函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="06.函数模板-局限性.cpp">
+      <Filter>源文件\01.模板\01-1.模板-函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="01.类模板-基础语法.cpp">
+      <Filter>源文件\01.模板\01-2.模板-类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="02.类模板-区别.cpp">
+      <Filter>源文件\01.模板\01-2.模板-类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="03.类模板-创建时机.cpp">
+      <Filter>源文件\01.模板\01-2.模板-类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="04.类模板-做函数参数.cpp">
+      <Filter>源文件\01.模板\01-2.模板-类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="05.类模板-继承.cpp">
+      <Filter>源文件\01.模板\01-2.模板-类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="06.类模板-成员函数类外实现.cpp">
+      <Filter>源文件\01.模板\01-2.模板-类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="07.类模板-拆分文件编写.cpp">
+      <Filter>源文件\01.模板\01-2.模板-类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="08.类模板-友元.cpp">
+      <Filter>源文件\01.模板\01-2.模板-类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="01.类模板-数组类封装案例.cpp">
+      <Filter>源文件\01.模板\01-3.数组类封装案例</Filter>
+    </ClCompile>
+    <ClCompile Include="02-1-1.vector容器-创建和遍历.cpp">
+      <Filter>源文件\02.STL初识</Filter>
+    </ClCompile>
+    <ClCompile Include="02-1-2.vector容器-自定义数据类型.cpp">
+      <Filter>源文件\02.STL初识</Filter>
+    </ClCompile>
+    <ClCompile Include="02-1-3.vector容器-套娃.cpp">
+      <Filter>源文件\02.STL初识</Filter>
+    </ClCompile>
+    <ClCompile Include="01.string-构造函数.cpp">
+      <Filter>源文件\03.STL-常用容器\03-1.String 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02.string-赋值操作.cpp">
+      <Filter>源文件\03.STL-常用容器\03-1.String 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03.string-字符串拼接.cpp">
+      <Filter>源文件\03.STL-常用容器\03-1.String 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04.string-查找和替换.cpp">
+      <Filter>源文件\03.STL-常用容器\03-1.String 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05.string-字符串比较.cpp">
+      <Filter>源文件\03.STL-常用容器\03-1.String 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06.string-字符存取.cpp">
+      <Filter>源文件\03.STL-常用容器\03-1.String 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="07.string-插入和删除.cpp">
+      <Filter>源文件\03.STL-常用容器\03-1.String 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="08.string-子串.cpp">
+      <Filter>源文件\03.STL-常用容器\03-1.String 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01.vector-工造函数.cpp">
+      <Filter>源文件\03.STL-常用容器\03-2.Vector 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02.vector-赋值操作.cpp">
+      <Filter>源文件\03.STL-常用容器\03-2.Vector 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03.vector-容量和大小.cpp">
+      <Filter>源文件\03.STL-常用容器\03-2.Vector 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04.vector-插入和删除.cpp">
+      <Filter>源文件\03.STL-常用容器\03-2.Vector 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05.vector-互换容器.cpp">
+      <Filter>源文件\03.STL-常用容器\03-2.Vector 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06.vector-预留空间.cpp">
+      <Filter>源文件\03.STL-常用容器\03-2.Vector 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01.deque-构造函数.cpp">
+      <Filter>源文件\03.STL-常用容器\03-3.Deque 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02.deque-赋值操作.cpp">
+      <Filter>源文件\03.STL-常用容器\03-3.Deque 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03.deque-大小操作.cpp">
+      <Filter>源文件\03.STL-常用容器\03-3.Deque 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04.deque-插入和删除.cpp">
+      <Filter>源文件\03.STL-常用容器\03-3.Deque 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05.deque-数据存取.cpp">
+      <Filter>源文件\03.STL-常用容器\03-3.Deque 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06.deque-排序.cpp">
+      <Filter>源文件\03.STL-常用容器\03-3.Deque 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="case.cpp">
+      <Filter>源文件\03.STL-常用容器\03-4.案例-评委打分</Filter>
+    </ClCompile>
+    <ClCompile Include="01.stack-常用接口.cpp">
+      <Filter>源文件\03.STL-常用容器\03-5.Stack 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01.queue-常用接口.cpp">
+      <Filter>源文件\03.STL-常用容器\03-6.Queue 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01.list-构造函数.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.List 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02.list-赋值和交换.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.List 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03.list-大小操作.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.List 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04.list-插入和删除.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.List 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05.list-数据存取.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.List 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06.list-反转和排序.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.List 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="07.list-排序案例.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.List 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01.set-构造和赋值.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.set-multiset 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02.set-大小和交换.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.set-multiset 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03.set-插入和删除.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.set-multiset 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04.set-查找和统计.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.set-multiset 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05.set和multiset区别.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.set-multiset 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="00.pair-对组使用.cpp">
+      <Filter>源文件\03.STL-常用容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06.set-排序.cpp">
+      <Filter>源文件\03.STL-常用容器\03-7.set-multiset 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01.map-构造和赋值.cpp">
+      <Filter>源文件\03.STL-常用容器\03-8.map-multimap 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02.map-大小和交换.cpp">
+      <Filter>源文件\03.STL-常用容器\03-8.map-multimap 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03.map-插入和删除.cpp">
+      <Filter>源文件\03.STL-常用容器\03-8.map-multimap 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04.map-查找和统计.cpp">
+      <Filter>源文件\03.STL-常用容器\03-8.map-multimap 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05.map-容器排序.cpp">
+      <Filter>源文件\03.STL-常用容器\03-8.map-multimap 容器</Filter>
+    </ClCompile>
+    <ClCompile Include="worker_classify.cpp">
+      <Filter>源文件\03.STL-常用容器\03-9.案例-员工分组</Filter>
+    </ClCompile>
+    <ClCompile Include="01.函数对象使用.cpp">
+      <Filter>源文件\04.STL-函数对象\04-1.函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="01.一元谓词.cpp">
+      <Filter>源文件\04.STL-函数对象\04-2.谓词</Filter>
+    </ClCompile>
+    <ClCompile Include="02.二元谓词.cpp">
+      <Filter>源文件\04.STL-函数对象\04-2.谓词</Filter>
+    </ClCompile>
+    <ClCompile Include="01.算术仿函数.cpp">
+      <Filter>源文件\04.STL-函数对象\04-3.内建函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="02.关系仿函数.cpp">
+      <Filter>源文件\04.STL-函数对象\04-3.内建函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="03.逻辑仿函数.cpp">
+      <Filter>源文件\04.STL-函数对象\04-3.内建函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="01.for_each-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-1.遍历算法</Filter>
+    </ClCompile>
+    <ClCompile Include="02.transform-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-1.遍历算法</Filter>
+    </ClCompile>
+    <ClCompile Include="01.find-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-2.查找算法</Filter>
+    </ClCompile>
+    <ClCompile Include="02.find_if-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-2.查找算法</Filter>
+    </ClCompile>
+    <ClCompile Include="03.adjacent_find-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-2.查找算法</Filter>
+    </ClCompile>
+    <ClCompile Include="04.binary_search-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-2.查找算法</Filter>
+    </ClCompile>
+    <ClCompile Include="05.count-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-2.查找算法</Filter>
+    </ClCompile>
+    <ClCompile Include="06.count_if-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-2.查找算法</Filter>
+    </ClCompile>
+    <ClCompile Include="01.sort-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-3.排序算法</Filter>
+    </ClCompile>
+    <ClCompile Include="02.random_shuffle-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-3.排序算法</Filter>
+    </ClCompile>
+    <ClCompile Include="03.merge-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-3.排序算法</Filter>
+    </ClCompile>
+    <ClCompile Include="04.reverse-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-3.排序算法</Filter>
+    </ClCompile>
+    <ClCompile Include="01.copy-算法.cpp">
+      <Filter>源文件\05.STL-常用算法\05-4.拷贝和替换算法</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="split.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="01-3-1.ArrayFn.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="03-3-3.dequePrint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="03-3-7.listPrintFn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="03-3-8.setPrintFn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="03-3-9.mapPrintFn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
