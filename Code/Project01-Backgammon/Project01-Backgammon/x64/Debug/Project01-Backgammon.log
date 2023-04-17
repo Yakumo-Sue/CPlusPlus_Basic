@@ -1,0 +1,27 @@
+﻿  AI.cpp
+  Chess.cpp
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(73,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(73,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(74,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(74,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(91,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(93,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(95,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(97,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(99,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(107,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(120,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(122,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(136,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(137,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(150,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(151,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(152,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(175,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\Chess.cpp(176,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChessGame.cpp
+  main.cpp
+D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\Project01-Backgammon\main.cpp(27,30): warning C4305: “参数”: 从“double”到“float”截断
+  Man.cpp
+  正在生成代码...
+  Project01-Backgammon.vcxproj -> D:\01.Alone_Yakumo-Sue\CPlusPlus_Basic\Code\Project01-Backgammon\x64\Debug\Project01-Backgammon.exe
